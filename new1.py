@@ -5,7 +5,7 @@ import numpy as np
 from ultralytics import YOLO
 
 # --- KONFIGURASI SERIAL ---
-PORT = "COM5"
+PORT = "COM10"
 BAUDRATE = 9600
 
 try:
